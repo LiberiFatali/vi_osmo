@@ -1,0 +1,62 @@
+
+Image Processing
+http://www.pyimagesearch.com/2015/04/06/zero-parameter-automatic-canny-edge-detection-with-python-and-opencv/
+http://blog.christianperone.com/2014/06/simple-and-effective-coin-segmentation-using-python-and-opencv/
+https://www.quora.com/How-can-I-detect-an-object-from-static-image-and-crop-it-from-the-image-using-openCV
+
+http://opencv-users.1802565.n2.nabble.com/Increase-or-decrease-DPI-of-an-image-td7584932.html
+http://stackoverflow.com/questions/473498/when-printing-an-image-what-determines-how-large-it-will-appear-on-a-page
+
+http://stackoverflow.com/questions/11424002/how-to-detect-simple-geometric-shapes-using-opencv
+
+Data augmentation
+python do_data_augmentation.py --folder='/home/hieunguyen/myproject/vi_osmo/vi_osmo_numbers/cropped_number_rotated/binarized'
+
+
+OCR
+https://handong1587.github.io/deep_learning/2015/10/09/ocr.html
+
+
+Tesseract
+
+tesseract --psm 10 --oem 3 cropped.png out
+tesseract --psm 10 --oem 3 -c tessedit_write_images=true  cropped.png out
+
+http://stackoverflow.com/questions/1450897/python-removing-characters-except-digits-from-string
+https://miroslavbodis.com/index.php/home/article/2014/04/54/using-tesseract-ocr-to-autorotate-scanned-text-to-right-rotation
+
+
+
+http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html
+
+MNIST
+
+https://www.tensorflow.org/tutorials/mnist/beginners/
+https://www.tensorflow.org/tutorials/mnist/pros/
+
+
+https://www.kaggle.com/c/digit-recognizer/kernels
+https://www.kaggle.com/daryadedik/digit-recognizer/mnist-with-cnn-0-99157-score
+https://www.kaggle.com/kakauandme/digit-recognizer/tensorflow-deep-nn
+
+
+Make data/images like MNIST
+http://zafar.cc/not-notmnist-dataset-generation/
+
+
+
+SHVN
+
+https://github.com/ritchieng/NumNum
+http://www.aimechanic.com/2016/09/22/d221-svhn-tensorflow-deep-learning/
+
+
+https://matthewearl.github.io/2016/05/06/cnn-anpr/
+
+
+
+CNN
+
+https://www.quora.com/How-do-convolutional-neural-networks-for-images-achieve-rotational-invariance
+https://www.quora.com/How-can-we-use-Convolutional-Neural-Network-to-classify-whether-an-image-is-upside-down-rotated-180-degree-or-not
+http://stackoverflow.com/questions/40952163/are-modern-cnn-convolutional-neural-network-as-detectnet-rotate-invariant

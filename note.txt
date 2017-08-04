@@ -1,0 +1,16 @@
+What Osmo is all about
+https://gigaom.com/2014/05/22/the-ipads-next-killer-app-osmo-connects-ios-kids-games-with-the-real-world/
+
+http://blog.playosmo.com/post/94655155207/a-peek-into-osmos-reflective-ai-technology
+
+No internet required --> recognition done in client
+http://www.pcadvisor.co.uk/review/games/osmo-for-ipad-games-review-3532862/
+
+
+Tiggly
+https://www.tiggly.com/
+
+
+Tensorflow on mobile
+https://www.quora.com/How-can-Google-TensorFlow-be-used-offline-on-an-Android-App
+https://www.tensorflow.org/mobile/
